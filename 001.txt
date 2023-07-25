@@ -1,3 +1,4 @@
 1. modify1
 2. modify2
 2. modify3
+4번 라인수정 - detail-cat
